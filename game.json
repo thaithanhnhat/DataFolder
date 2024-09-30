@@ -1,7 +1,6 @@
 [
   {
-    "name": 1,
-    "age": 25,
-    "city": "London"
+    "Id":1,
+    "name": "Blum"
   }
 ]
